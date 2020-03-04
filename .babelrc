@@ -1,0 +1,17 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        
+        "useBuiltIns": "usage",
+        "corejs": 2,
+        "targets": {
+          "ios": "8",
+          "android": "4.4"
+        }
+      }
+    ],
+    "@babel/preset-react"
+  ]
+}
