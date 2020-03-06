@@ -1345,10 +1345,9 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-beautiful-skill-tree@^1.5.1:
+"beautiful-skill-tree@https://github.com/gaoryrt/beautiful-skill-tree.git":
   version "1.5.1"
-  resolved "https://registry.npm.taobao.org/beautiful-skill-tree/download/beautiful-skill-tree-1.5.1.tgz#9a2797c04f2273bebb03d959da92de16b83c119d"
-  integrity sha1-mieXwE8ic767A9lZ2pLeFrg8EZ0=
+  resolved "https://github.com/gaoryrt/beautiful-skill-tree.git#96192f6aa20c65d8df4fcf2317fe866983ae6067"
   dependencies:
     "@tippy.js/react" "^3.1.1"
     lodash "^4.17.15"

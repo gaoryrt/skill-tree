@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
-    "beautiful-skill-tree": "^1.5.1",
+    "beautiful-skill-tree": "https://github.com/gaoryrt/beautiful-skill-tree.git",
     "core-js": "^2.5.7",
     "emotion": "^10.0.14",
     "mockjs": "^1.0.1-beta3",
