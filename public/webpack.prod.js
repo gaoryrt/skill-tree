@@ -57,7 +57,7 @@ module.exports = merge(base, {
     }),
     new HtmlWbpk({
       title: 'testtitle',
-      filename: `skill-tree.${TS}.html`,
+      filename: `index.html`,
       template: 'public/index.html',
       inlineSource: '\.()$'
     }),
